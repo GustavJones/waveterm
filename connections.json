@@ -1,4 +1,7 @@
 {
+  "gustav@10.0.0.160": {
+    "conn:wshenabled": false
+  },
   "gustav@10.0.0.170": {
     "conn:wshenabled": false
   }
