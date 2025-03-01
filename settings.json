@@ -1,0 +1,6 @@
+{
+  "autoupdate:channel": "latest",
+  "telemetry:enabled": false,
+  "ai:preset": "ai@ollama",
+  "ai:timeoutms": 0
+}

@@ -1,0 +1,13 @@
+{
+  "ai@ollama": {
+    "display:name": "Local Ollama",
+    "display:order": 0,
+    "ai:*": true,
+    "ai:baseurl": "http://localhost:11434/v1",
+    "ai:name": "deepseek-r1",
+    "ai:model": "deepseek-r1:14b",
+    "ai:apitoken": "ollama",
+    "ai:preset": "ollama",
+    "ai:timeoutms": 0
+  }
+}
