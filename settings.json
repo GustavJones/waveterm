@@ -2,5 +2,6 @@
   "autoupdate:channel": "latest",
   "telemetry:enabled": false,
   "ai:preset": "ai@ollama",
-  "ai:timeoutms": 0
+  "ai:timeoutms": 0,
+  "web:defaultsearch": "https://duckduckgo.com/?t=h_&q={query}"
 }
