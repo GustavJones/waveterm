@@ -4,10 +4,10 @@
     "display:order": 0,
     "ai:*": true,
     "ai:baseurl": "http://10.0.0.160:11434/v1",
-    "ai:name": "codellama",
-    "ai:model": "codellama:13b",
+    "ai:name": "qwen2.5-coder",
+    "ai:model": "qwen2.5-coder:7b",
     "ai:apitoken": "ollama",
     "ai:preset": "ollama",
-    "ai:timeoutms": 0
+    "ai:timeoutms": 300000
   }
 }
